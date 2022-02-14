@@ -1,4 +1,4 @@
-<img style="width: 100%; height: auto;" src="" alt="poster of mamta">
+<img style="width: 100%; height: auto;" src="/images/mamta1.jpg" alt="poster of mamta">
 
 <h1 align="center">Hi 👋, I'm Mamta Gautam</h1>
 <h3 align="center">A passionate frontend developer</h3>
