@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML5 , CSS , JS**
 
-- 📫 How to reach me **mamta.sin095@gmail.com**
+- 📫 How to reach me **https://codewithmamta.github.io/codewithmamta/**
 
 - ⚡ Fun fact **humming.....**
 
